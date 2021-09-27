@@ -25,3 +25,10 @@ var integerReplacement = function(n) {
         
         return op;
     }
+
+
+
+/*
+Runtime: 68 ms, faster than 96.61% of JavaScript online submissions for Integer Replacement.
+Memory Usage: 38.5 MB, less than 83.05% of JavaScript online submissions for Integer Replacement.
+*/
